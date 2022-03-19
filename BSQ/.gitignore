@@ -1,0 +1,9 @@
+b
+bsq
+*.out
+a
+example_file
+*.gch
+*.o
+.DS_Store
+.vscode
